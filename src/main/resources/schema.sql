@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS testtable
+(
+  id    SERIAL PRIMARY KEY,
+  value TEXT
+);
